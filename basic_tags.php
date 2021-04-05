@@ -60,3 +60,7 @@
 
 //id do post
 <?php the_ID(); ?>
+
+//include function files
+require 'inc/layout.php';
+
